@@ -1,0 +1,9 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+    cout<<"Hello";
+    cout<<endl<<"Autosave";
+    return 0;
+}
