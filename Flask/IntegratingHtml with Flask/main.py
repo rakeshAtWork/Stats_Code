@@ -16,11 +16,11 @@ def welcome():
 
 @app.route("/success/<int:score>")
 def success(score):
-    return f'<h1>The person has passed and the marks is {str(score)}</h1>'
+    return render_template('result.html',result = "PASS",score=score)
 
 @app.route("/fail/<int:score>")
 def fail(score):
-    return f'<h1>The person has failed and the marks is {str(score)}</h1>'
+    return render_template('result.html',result = "FAIL",score=score)
 
 # result Checking
 
