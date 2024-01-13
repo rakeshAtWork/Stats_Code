@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+   
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css')}}">
+    
+    <script type="text/javascript" src="{{ url_for('static',filename='script/script.js')}}"></script>
 </head>
 <body>
         <h2>Html Form:</h2>
@@ -17,7 +21,7 @@
             <input type="text" name="c" id="c" value="0"><br><br>
             <label for="datascience" >Data Science:</label><br>
             <input type="text" name="datascience" id="datascience" value="0"><br>
-            <input type="submit" value="Submit">
+            <input type="submit" value="Submit" id="button">
         </form>
 </body>
 </html>
