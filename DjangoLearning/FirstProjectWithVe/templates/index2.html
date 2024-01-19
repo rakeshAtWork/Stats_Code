@@ -1,0 +1,42 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <h1>Hello World, Here i am rendring the template.</h1>
+    <h2>{{msg}}</h2>
+
+    {% for n in lst %}
+    <div>{{forloop.counter}} {{n}}</div>
+    {% endfor %}
+
+    <br>
+
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+        </tr>
+        {% for d in student_Details %}
+        <tr>
+            <td>{{d.name}}</td>
+            <td>{{d.phone}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+
+    {% if number|length > 0 %}
+
+        {% for n in number %}
+            {% if n > 50 %}
+                <div>{{n}}</div>
+            {% endif %}
+        {% endfor %}
+
+    {% else %}
+
+        <div>No data</div>
+    {% endif %}
+    
+{% endblock %}
