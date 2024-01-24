@@ -33,7 +33,6 @@ def homePage(request):
 def userForm(request):
     finalans=0
     try:
-        
         n1= int(request.GET['num1'])
         n2 = int(request.GET['num2'])
         finalans=n1+n2
