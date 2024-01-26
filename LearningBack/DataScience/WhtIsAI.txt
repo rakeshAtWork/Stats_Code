@@ -1,0 +1,56 @@
+what is AI?
+
+-- mimicking the human intelligence
+
+ EG : self driving car
+
+data science is subset of Artificial Intelligence
+
+machine learning deals with structures data that is tabular data.
+
+deep learning deals with the unstructured data 
+
+where Computer vision is the subset of deep learnong.
+   This Computer vision understand the unstructured data
+
+Data Like : audio, video, Images.
+
+NLP :(Natural language processing )
+
+        generally audio and voice data.
+
+Ai operation : AI Ops
+
+Easy to maintain and usefulness of AI, that is AI ops gives user to use this functionality.
+
+
+
+-- Deep learning:
+        -- ANN: Artificial nural network
+        -- CV: (CNN) Computer vision
+        -- NLP : Natural language processing.
+
+-- AI ops
+
+-- Big Data
+
+ what is big data?
+-- data science
+-- data analytics
+-- big dta analytics
+
+                Three v's
+                    Volume 
+                    velocity
+                    Variety
+
+
+
+Ai ops is used to operationalize all the product.
+
+where these servies are deployed : GCP, AWS, Azure
+
+
+-- Python have fast prototyping..
+
+
