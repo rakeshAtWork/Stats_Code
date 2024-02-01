@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'frontend',
     'api.apps.ApiConfig'              # just added this on very first.
 ]
 
