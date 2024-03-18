@@ -25,3 +25,5 @@ q=len(arr)-1
 # function calling
 result = quickSort(arr,p,q)
 print("sorted array after applying the quick sort is: ",result)
+
+
