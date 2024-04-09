@@ -1,4 +1,3 @@
-C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).csproj.AssemblyReference.cache
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).AssemblyInfoInputs.cache
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).pdb
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).genruntimeconfig.cache
 C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\ref\1. C#(cSharp).dll
+C:\Users\CZ0234\Documents\GitHub\Stats_Code\DotNet\1. C#(cSharp)\obj\Debug\net7.0\1. C#(cSharp).sourcelink.json
